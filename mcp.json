@@ -1,0 +1,9 @@
+{
+  "name": "mcp-test-server",
+  "description": "Minimal Model Context Protocol test server for audit detection",
+  "version": "1.0.0",
+  "server": {
+    "command": "python",
+    "args": ["server.py"]
+  }
+}
