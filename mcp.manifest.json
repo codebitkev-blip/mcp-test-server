@@ -1,0 +1,14 @@
+{
+  "protocol": "model-context-protocol",
+  "version": "1.0",
+  "type": "mcp-server",
+  "name": "mcp-test-server",
+  "description": "Static MCP manifest for source code repository audits",
+  "tools": [
+    {
+      "name": "ping",
+      "description": "Test tool that returns a static response",
+      "readonly": true
+    }
+  ]
+}
